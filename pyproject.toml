@@ -18,6 +18,7 @@ matplotlib = "^3.9.2"
 missingno = "^0.5.2"
 imbalanced-learn = "^0.12.4"
 lightgbm = "^4.5.0"
+torch = "^2.5.1"
 
 [build-system]
 requires = ["poetry-core"]
