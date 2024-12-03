@@ -19,6 +19,8 @@ missingno = "^0.5.2"
 imbalanced-learn = "^0.12.4"
 lightgbm = "^4.5.0"
 torch = "^2.5.1"
+torchvision = "^0.20.1"
+opencv-python = "^4.10.0.84"
 
 [build-system]
 requires = ["poetry-core"]
